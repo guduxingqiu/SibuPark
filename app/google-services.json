@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366358771006",
+    "project_id": "digital-parking-coupon",
+    "storage_bucket": "digital-parking-coupon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366358771006:android:7fe8e371bb276718a1686f",
+        "android_client_info": {
+          "package_name": "I.Chicken"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhYSpI7EoWlPaxt0eQ6a2ZKUiz_WLRtHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
